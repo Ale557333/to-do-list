@@ -1,4 +1,4 @@
-#  ✅ JavaScript TO DO list
+#  ✅ JavaScript TO Do list
 
 https://
 
