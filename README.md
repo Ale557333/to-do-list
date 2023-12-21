@@ -1,6 +1,6 @@
 #  ✅ JavaScript To-Do list
 
-[https://github.com/Ale557333/to-do-list/assets/71138743/16d6507d-c30b-44b5-a320-b8b8d6782438](https://github.com/Ale557333/to-do-list/issues/1#issue-2051512739)
+https://github.com/Ale557333/to-do-list/assets/71138743/16d6507d-c30b-44b5-a320-b8b8d6782438
 
 ---
 
