@@ -7,7 +7,7 @@ https://
 ## 🎯 Features
 
 
-This project is a To Do List in Java Script.
+This project is a To Do List in JavaScript.
 
 ---
 
